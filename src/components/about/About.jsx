@@ -24,7 +24,7 @@ What sets us apart is our unwavering commitment to excellence in everything we d
 But beyond our professional expertise, it's our passion for real estate and our dedication to serving our community that truly drives us. We believe in building lasting relationships based on trust, transparency, and mutual respect. When you choose [Your Real Estate Website], you're not just a client – you're part of our family.
 
 Thank you for choosing [Your Real Estate Website]. We look forward to serving you and helping you achieve your real estate dreams. Let's embark on this journey together and turn your vision into reality.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+         
             <button className='btn2'>More About Us</button>
           </div>
           <div className='right row'>
